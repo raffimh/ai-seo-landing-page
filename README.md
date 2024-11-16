@@ -19,10 +19,10 @@ To get a local copy up and running follow these simple steps.
 
 ## 🛠️ Technologies Used
 
-- **Next.js 15** ![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat&logo=next.js): A React framework for production.
-- **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2.2-38B2AC?style=flat&logo=tailwind-css): A utility-first CSS framework.
-- **Framer Motion** ![Framer Motion](https://img.shields.io/badge/Framer_Motion-2.9-0055FF?style=flat&logo=framer): A library for animations.
-- **Lottie** ![Lottie](https://img.shields.io/badge/Lottie-5.7-FF9900?style=flat&logo=lottie): A library for rendering animations.
+- **Next.js 15** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white): A React framework for production.
+- **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white): A utility-first CSS framework.
+- **Framer Motion** ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer): A library for animations.
+- **Lottie** ![Lottie](https://img.shields.io/badge/Lottie-FF9900?style=flat&logo=lottie): A library for rendering animations.
 
 ## 📦 Installation
 
