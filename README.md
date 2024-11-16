@@ -2,7 +2,7 @@
 
 Welcome to the AI SEO Landing Page project! This project is built using Next.js 15, Tailwind CSS, Framer Motion, and Lottie.
 
-![screenshots](https://raw.githubusercontent.com/raffmh/ai-seo-landing-page/master/assets/ai-driven-seo.png)
+![screenshots](https://raw.githubusercontent.com/raffimh/ai-seo-landing-page/master/assets/ai-driven-seo.png)
 
 ## Table of Contents
 
